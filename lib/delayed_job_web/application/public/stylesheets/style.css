@@ -69,8 +69,8 @@ pre { font-family:Courier New; line-height:1.4em; }
 
 #main ul.job {}
 #main ul.job li {background:-webkit-gradient(linear, left top, left bottom, from(#efefef), to(#fff)) #efefef; margin-top:10px; padding:10px; overflow:hidden; -webkit-border-radius:5px; border:1px solid #ccc; }
-#main ul.job li dl dt {font-size:80%; color:#999; width:60px; float:left; padding-top:1px; text-align:right;}
-#main ul.job li dl dd {margin-bottom:10px; margin-left:70px;}
+#main ul.job li dl dt {font-size:80%; color:#999; width:110px; float:left; padding-top:1px; text-align:right;}
+#main ul.job li dl dd {margin-bottom:10px; margin-left:120px;}
 #main ul.job li dl dd .retried { float:right; text-align: right; }
 #main ul.job li dl dd .retried .remove { display:none; margin-top: 8px; }
 #main ul.job li.hover dl dd .retried .remove { display:block; }
